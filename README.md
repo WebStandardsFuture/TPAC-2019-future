@@ -1,3 +1,5 @@
+*This repo was created in February 2020 in hopes of following up on an interesting TPAC 2019 breakout session.  That hope was overtaken by events -- the COVID19 pandemic.  It's here to document some thinking at the time, and just in case someone finds it useful in the future. *
+
 # Overview
 
 How should web standards organizations and the open source projects that implement the web platform evolve to better serve the web community? Tantek Çelik ([@t](https://twitter.com/t?lang=en) ) organized and led a W3C Technical Plenary discussion of this topic in September 2019](https://w3c.github.io/tpac-breakouts/sessions.html#future)

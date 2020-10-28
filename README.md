@@ -1,4 +1,4 @@
-*This repo was created in February 2020 in hopes of following up on an interesting TPAC 2019 breakout session.  That hope was overtaken by events -- the COVID19 pandemic.  It's here to document the discussion, and in hope of continuing the conversation in the future. *
+*This repo was created in February 2020 in hopes of following up on an interesting TPAC 2019 breakout session.  That hope was overtaken by events -- the COVID19 pandemic.  It's here to document the discussion, and in hope of continuing the conversation in the future.*
 
 # Overview
 

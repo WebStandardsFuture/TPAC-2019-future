@@ -8,3 +8,11 @@ About 40 people -- from diverse backgrounds, with deep experience in web technol
 
 This repo could be a place to continue the conversation. We've seeded the issues list with clarified / generalized versions of the questions Tantek posed in https://w3c.github.io/tpac-breakouts/sessions.html#future. We would value input from web stakeholders about the missions and structures of the various organizations that create web standards, and what changes to them and their inter-relationships could help evolve the web in a positive direction.
 
+# Follow-up
+
+At the subsequent TPAC 2020, Tantek led a breakout session on [W3C Focus and Shared Core Values](https://www.w3.org/2020/10/TPAC/breakout-schedule.html#focusvalues).
+* Minutes: https://www.w3.org/wiki/TPAC/2020/focus-values (actual notes captured by the scribe)
+* IRC log: https://www.w3.org/2020/10/30-focus-values-irc
+* IRC logs minute-formatted: https://www.w3.org/2020/10/30-focus-values-minutes.html 
+
+As this repo (TPAC-2019-future) is primarily for archival of the 2019 session, we may want to consider a new repo for continuing this ongoing discussion.
